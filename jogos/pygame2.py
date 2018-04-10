@@ -1,4 +1,4 @@
-# importar uo pygame
+# importar uo pygame.
 import pygame
 
 # iniciar a biblioteca
